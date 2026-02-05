@@ -1,6 +1,6 @@
 This repository is used for Jenkins integration testing.
 
-Student Name: Palak Sharma H
+Student Name: Palak Sharma 
 
 Task: Workspace File Creation
 
